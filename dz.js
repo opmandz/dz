@@ -1,6 +1,6 @@
 var s=[
 "https://maxtakipci.com/tools",
-"https://medyatakipcin.net/
+"https://medyatakipcin.net/tools",
 "https://mediainsta.com//tools",
 "https://www.instafenomeni.net/tools",
 "https://4takip.com//tools",
